@@ -5,3 +5,8 @@ __pycache__/
 venv/
 env/
 *.log
+
+# 本地发票样本及临时渲染
+/test/
+/tmp/
+/发票演示/
